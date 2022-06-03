@@ -1,0 +1,961 @@
+org,channel,product,planner
+org1,Non Revenue,A B K,user1
+org1,Non Revenue,A B L,user1
+org1,Non Revenue,M OAZP,user1
+org1,Non Revenue,M OAZT,user1
+org1,Non Revenue,M OAZS,user1
+org1,Non Revenue,B C C,user1
+org1,Non Revenue,B C E,user3
+org1,Non Revenue,O B G,user1
+org1,Non Revenue,O B GF,user1
+org1,Non Revenue,O B FB,user3
+org1,Non Revenue,O B FC,user1
+org1,Non Revenue,O B BE,user2
+org1,Non Revenue,O B BC,user3
+org1,Non Revenue,O B BH,user1
+org1,Non Revenue,B PABA,user1
+org1,Non Revenue,B PARF,user1
+org1,Non Revenue,B PARG,user1
+org1,Non Revenue,B PABB,user1
+org1,Non Revenue,B PARJ,user2
+org1,Non Revenue,B PARH,user1
+org1,Non Revenue,B PARB,user2
+org1,Non Revenue,B PBFH,user2
+org1,Non Revenue,B PBCC,user2
+org1,Non Revenue,B PBBH,user1
+org1,Non Revenue,B PBBP,user1
+org1,Non Revenue,B PDBM,user1
+org1,Non Revenue,B PDGG,user2
+org1,Non Revenue,B PDGB,user3
+org1,Non Revenue,M AABC,user2
+org1,Non Revenue,M AAFH,user1
+org1,Non Revenue,M AAFI,user1
+org1,Non Revenue,M AAFE,user1
+org1,Non Revenue,M ABB,user3
+org1,Non Revenue,M ABE,user3
+org1,Non Revenue,M AAFM,user1
+org1,Non Revenue,M ABG,user3
+org1,Non Revenue,RDA D,user2
+org1,Non Revenue,ONEQDT,user1
+org1,Non Revenue,ONREDT,user1
+org1,Non Revenue,ONCKDT,user1
+org1,Non Revenue,ONHSDT,user1
+org1,Non Revenue,ONGSDT,user2
+org1,Non Revenue,ONVADT,user1
+org1,Non Revenue,D F A,user1
+org1,Non Revenue,C D P,user1
+org1,Non Revenue,C D C,user2
+org1,Non Revenue,C D E,user1
+org1,Non Revenue,C D RN,user1
+org1,Non Revenue,CAS AM,user1
+org1,Non Revenue,MBAAA,user1
+org1,Non Revenue,MBAAAA,user1
+org1,Non Revenue,MBAABA,user2
+org1,Non Revenue,MBABA,user1
+org1,Non Revenue,MBABBA,user1
+org1,Non Revenue,MBBBA,user1
+org1,Non Revenue,MBABC,user1
+org1,Non Revenue,MBABD,user1
+org1,Non Revenue,MBBFA,user3
+org1,Non Revenue,MBBFBA,user1
+org1,Non Revenue,MBBFB,user1
+org1,Non Revenue,MBBFBB,user1
+org1,Non Revenue,MBBEA,user1
+org1,Non Revenue,MBBEB,user1
+org1,Non Revenue,MBADA,user2
+org1,Non Revenue,MBADAA,user1
+org1,Non Revenue,MBADB,user3
+org1,Non Revenue,MBADBA,user1
+org1,Non Revenue,MBBCA,user1
+org1,Non Revenue,MBBCB,user1
+org1,Non Revenue,GSC D,user3
+org1,Non Revenue,MBBGA,user3
+org1,Non Revenue,MBBGB,user3
+org1,Non Revenue,A G AA,user2
+org1,Non Revenue,A G AG,user3
+org1,Non Revenue,A G AH,user2
+org1,Non Revenue,MACCFG,user1
+org1,Non Revenue,MACCFM,user1
+org1,Non Revenue,MACCGM,user2
+org1,Non Revenue,MACCGG,user1
+org1,Non Revenue,MACAHP,user1
+org1,Non Revenue,A R CP,user1
+org1,Non Revenue,A R DT,user3
+org1,Non Revenue,MTL CA,user3
+org1,Non Revenue,F A B,user1
+org1,Non Revenue,F A C,user1
+org1,Non Revenue,F CCG,user1
+org1,Non Revenue,MAI F,user1
+org1,Non Revenue,F Y F,user1
+org1,Non Revenue,F Y G,user1
+org1,Non Revenue,ONIIDT,user1
+org1,Non Revenue,M JBC,user3
+org1,Non Revenue,H P A,user1
+org1,Non Revenue,O B P,user1
+org1,Non Revenue,O B HE,user3
+org1,Non Revenue,O R A,user1
+org1,Non Revenue,M JAAD,user3
+org1,Non Revenue,O B YH,user2
+org1,Non Revenue,MBCBAC,user1
+org1,Non Revenue,MBCBAA,user1
+org1,Non Revenue,MBCBAE,user1
+org1,Non Revenue,MBCBAB,user1
+org1,Non Revenue,MBCBAJ,user3
+org1,Non Revenue,MBCBAH,user1
+org1,Non Revenue,MBCBAF,user1
+org1,Non Revenue,MBCBAN,user2
+org1,Non Revenue,MBCBAI,user1
+org1,Non Revenue,C D S,user3
+org1,Non Revenue,F K B,user2
+org1,Non Revenue,MBCAA,user1
+org1,Non Revenue,MIA A,user2
+org1,Non Revenue,MBCAB,user1
+org1,Non Revenue,MIA D,user3
+org1,Non Revenue,MBCBA,user1
+org1,Non Revenue,MBCBAL,user1
+org1,Non Revenue,MBCBAM,user1
+org1,Non Revenue,MBCBB,user1
+org1,Non Revenue,F SAA,user1
+org1,Non Revenue,F SAB,user1
+org1,Non Revenue,FJM S,user1
+org1,Non Revenue,FAR S,user1
+org1,Non Revenue,GTL I,user1
+org1,Non Revenue,MTL C,user1
+org1,Non Revenue,UJZHC,user1
+org1,Non Revenue,ANTSKC,user1
+org1,Non Revenue,ANTSKS,user1
+org1,Non Revenue,ANTQKC,user1
+org1,Non Revenue,AAF P,user3
+org1,Non Revenue,CAS AA,user3
+org1,Non Revenue,CAS AD,user3
+org1,Non Revenue,AAA S,user1
+org1,Non Revenue,AAA SO,user1
+org1,Non Revenue,AAB LC,user1
+org1,Non Revenue,CAS B,user1
+org1,Non Revenue,AAF S,user1
+org1,Non Revenue,EAB A,user1
+org1,Non Revenue,AAB LO,user1
+org1,Non Revenue,MAB B,user1
+org1,Non Revenue,MAO AC,user1
+org1,Non Revenue,M A DH,user1
+org1,Non Revenue,MACAK,user1
+org1,Non Revenue,MAO CZ,user1
+org1,Non Revenue,MAI A,user1
+org1,Non Revenue,MAI D,user1
+org1,Non Revenue,MAI C,user1
+org1,Non Revenue,MACCZ,user3
+org1,Non Revenue,MACAC,user1
+org1,Non Revenue,MACAF,user3
+org1,Non Revenue,MACGC,user1
+org1,Non Revenue,MACCH,user1
+org1,Non Revenue,MACFA,user1
+org1,Non Revenue,AJF KA,user1
+org1,Non Revenue,AJF K,user1
+org1,Non Revenue,MAP CA,user1
+org1,Non Revenue,EJK C,user1
+org1,Non Revenue,MAP CS,user1
+org1,Non Revenue,MACCUA,user1
+org1,Non Revenue,MACCVB,user1
+org1,Non Revenue,CJH A,user1
+org1,Non Revenue,BJG AC,user1
+org1,Non Revenue,MACCRM,user1
+org1,Non Revenue,MACCTA,user1
+org1,Non Revenue,B LIPR,user3
+org1,Non Revenue,ONIIDE,user1
+org1,Non Revenue,ANTQCB,user1
+org1,Non Revenue,ANTQCA,user3
+org1,Non Revenue,FNIIKA,user1
+org1,Non Revenue,B PEE,user1
+org1,Non Revenue,E A IB,user1
+org1,Non Revenue,B PBCB,user1
+org1,Non Revenue,B PBEA,user1
+org1,Non Revenue,B PBEF,user1
+org1,Non Revenue,B PBBN,user1
+org1,Non Revenue,B PBBT,user1
+org1,Non Revenue,B V UB,user1
+org1,Non Revenue,B PDEF,user1
+org1,Non Revenue,B PDBN,user1
+org1,Non Revenue,B PDBT,user1
+org1,Non Revenue,B V TE,user1
+org1,Non Revenue,B RAB,user1
+org1,Non Revenue,E A M,user1
+org1,Non Revenue,M ABC,user1
+org1,Non Revenue,M ABH,user1
+org1,Non Revenue,C D CA,user1
+org1,Non Revenue,C D K,user1
+org1,Non Revenue,C D RK,user1
+org1,Non Revenue,CAS AH,user1
+org1,Non Revenue,C D L,user1
+org1,Non Revenue,C D RL,user1
+org1,Non Revenue,C D I,user1
+org1,Non Revenue,MBAAB,user1
+org1,Non Revenue,MBABB,user1
+org1,Non Revenue,MBAEC,user1
+org1,Non Revenue,A X CA,user1
+org1,Non Revenue,A X AA,user1
+org1,Non Revenue,F C F,user1
+org1,Non Revenue,M OAZY,user1
+org1,Non Revenue,F Z Y,user1
+org1,Non Revenue,O B FE,user1
+org1,Non Revenue,O B FH,user1
+org1,Non Revenue,M JBA,user1
+org1,Non Revenue,M JCA,user1
+org1,Non Revenue,H P B,user1
+org1,Non Revenue,H V D,user1
+org1,Non Revenue,H S A,user1
+org1,Non Revenue,H S C,user1
+org1,Non Revenue,M JBB,user1
+org1,Non Revenue,R B C,user3
+org1,Non Revenue,R B L,user1
+org1,Non Revenue,H S AA,user1
+org1,Non Revenue,F T E,user1
+org1,Non Revenue,PODBA,user1
+org1,Non Revenue,MBCAC,user1
+org1,Non Revenue,F A BA,user1
+org1,Non Revenue,F A MA,user1
+org1,Non Revenue,F A LA,user1
+org1,Non Revenue,F A RA,user1
+org1,Non Revenue,FAS B,user1
+org1,Non Revenue,MAO V,user1
+org1,Non Revenue,F A MI,user1
+org1,Non Revenue,F GAA,user1
+org1,Non Revenue,MACAYB,user1
+org1,Non Revenue,FAR R,user1
+org1,Non Revenue,FAS A,user1
+org1,Non Revenue,U H A,user1
+org1,Non Revenue,U H B,user3
+org1,Non Revenue,R B G,user1
+org1,Non Revenue,MAO S,user1
+org1,Non Revenue,FAP A,user1
+org1,Non Revenue,FAM A,user1
+org1,Non Revenue,MACBJ,user1
+org1,Non Revenue,MACDB,user1
+org1,Non Revenue,MAP BX,user1
+org1,Non Revenue,MACBC,user3
+org1,Non Revenue,MAO BL,user1
+org1,Non Revenue,MAO AM,user1
+org1,Non Revenue,MACEC,user1
+org1,Non Revenue,MACEA,user1
+org1,Non Revenue,MAP BM,user1
+org1,Non Revenue,MAP CN,user1
+org1,Non Revenue,MAO BZ,user1
+org1,Non Revenue,MAO BD,user1
+org1,Non Revenue,FJM O,user1
+org1,Non Revenue,MAP ZC,user1
+org1,Non Revenue,MAP ZB,user1
+org1,Non Revenue,MAP ZA,user1
+org1,Non Revenue,MACAD,user1
+org1,Non Revenue,MACGF,user1
+org1,Non Revenue,HJM H,user1
+org1,Non Revenue,MACEG,user1
+org1,Non Revenue,MACEH,user1
+org1,Non Revenue,MACEE,user1
+org1,Non Revenue,MACEI,user1
+org1,Non Revenue,MACEK,user1
+org1,Non Revenue,MAP BZ,user1
+org1,Non Revenue,MAP CD,user1
+org1,Non Revenue,MAP CX,user1
+org1,Non Revenue,F TAA,user1
+org1,Non Revenue,MAP CB,user1
+org1,Non Revenue,MAP CH,user3
+org1,Non Revenue,MAP CI,user1
+org1,Non Revenue,MAP CU,user1
+org1,Non Revenue,FJM A,user1
+org1,Non Revenue,MACCQ,user1
+org1,Non Revenue,MAP DH,user1
+org1,Non Revenue,MAP DL,user1
+org1,Non Revenue,MAO BG,user3
+org1,Non Revenue,MAO BJ,user1
+org1,Non Revenue,MAO BS,user1
+org1,Non Revenue,MAO BT,user1
+org1,Non Revenue,MAO CG,user1
+org1,Non Revenue,MAO CM,user1
+org1,Non Revenue,MAO BN,user1
+org1,Non Revenue,MAO BO,user1
+org1,Non Revenue,MAO BP,user1
+org1,Non Revenue,MAO BR,user1
+org1,Non Revenue,MAP DA,user1
+org1,Non Revenue,MAO BU,user1
+org1,Non Revenue,MAO BC,user1
+org1,Non Revenue,MAO BI,user1
+org1,Non Revenue,FNIICF,user3
+org1,Non Revenue,ANTOCB,user1
+org1,Non Revenue,FNIICA,user1
+org1,Non Revenue,ANTNCB,user3
+org1,Non Revenue,B PDEE,user1
+org1,Non Revenue,B PDBP,user1
+org1,Non Revenue,B PDBS,user1
+org1,Non Revenue,B PDBV,user1
+org1,Non Revenue,B Z F,user1
+org1,Non Revenue,C D B,user1
+org1,Non Revenue,E A G,user1
+org1,Non Revenue,A G AE,user1
+org1,Non Revenue,A G AI,user1
+org1,Non Revenue,A G AJ,user1
+org1,Non Revenue,A G AB,user1
+org1,Non Revenue,ONHCDT,user2
+org1,Non Revenue,ONHEDT,user1
+org1,Non Revenue,C D N,user3
+org1,Non Revenue,MBBGC,user1
+org1,Non Revenue,A G AC,user1
+org1,Non Revenue,MACBEC,user1
+org1,Non Revenue,F Y I,user2
+org1,Non Revenue,F Y H,user3
+org1,Non Revenue,MBCBAK,user1
+org1,Non Revenue,O N A,user1
+org1,Non Revenue,UJZSB,user1
+org1,Non Revenue,U E AA,user2
+org1,Non Revenue,MAO CI,user2
+org1,Non Revenue,BJG B,user1
+org1,Non Revenue,MAO BX,user3
+org1,Non Revenue,E A AA,user2
+org1,Non Revenue,E B A,user3
+org1,Non Revenue,O B FA,user1
+org1,Non Revenue,B PBCA,user1
+org1,Non Revenue,B PBBS,user1
+org1,Non Revenue,BJU A,user2
+org1,Non Revenue,A X BA,user2
+org1,Non Revenue,UJZCA,user1
+org1,Non Revenue,MACBE,user2
+org1,Non Revenue,MACAZ,user1
+org1,Non Revenue,MACCI,user1
+org1,Non Revenue,MAP CC,user1
+org1,Non Revenue,MACCK,user1
+org1,Non Revenue,UJZ D,user2
+org1,Non Revenue,BJG T,user1
+org1,Non Revenue,MAO BF,user3
+org1,Non Revenue,MAO CB,user2
+org1,Non Revenue,MAP CZ,user1
+org1,Non Revenue,MAO BM,user1
+org1,Non Revenue,MAP DR,user1
+org1,Non Revenue,ANTICB,user1
+org1,Non Revenue,ANTSBC,user1
+org1,Non Revenue,ANTSBD,user1
+org1,Non Revenue,E A I,user1
+org1,Non Revenue,B PAK,user3
+org1,Non Revenue,MAB A,user1
+org1,Non Revenue,CAS AE,user2
+org1,Non Revenue,MACAX,user2
+org1,Non Revenue,MACAYA,user1
+org1,Non Revenue,GTL D,user1
+org1,Non Revenue,MTL D,user1
+org1,Non Revenue,F V B,user1
+org1,Non Revenue,M JCE,user2
+org1,Non Revenue,M JCF,user2
+org1,Non Revenue,H V J,user3
+org1,Non Revenue,M K I,user2
+org1,Non Revenue,C D T,user1
+org1,Non Revenue,F A XA,user1
+org1,Non Revenue,CAS AC,user1
+org1,Non Revenue,AAB L,user3
+org1,Non Revenue,AAA SC,user1
+org1,Non Revenue,HAS A,user2
+org1,Non Revenue,AAC XC,user1
+org1,Non Revenue,MAAFB,user3
+org1,Non Revenue,MAP CM,user1
+org1,Non Revenue,F PXA,user1
+org1,Non Revenue,RDA B,user1
+org1,Non Revenue,HJM D,user1
+org1,Non Revenue,MAP CR,user2
+org1,Non Revenue,HJM A,user2
+org1,Non Revenue,MAP DG,user1
+org1,Non Revenue,BJG S,user1
+org1,Non Revenue,FJM W,user2
+org1,Non Revenue,MAO CF,user2
+org1,Non Revenue,MAO BY,user3
+org1,Non Revenue,MAO BW,user1
+org1,Non Revenue,MAO AW,user3
+org1,Non Revenue,O B WG,user1
+org1,Non Revenue,O B VG,user1
+org1,Non Revenue,B PBBG,user2
+org1,Non Revenue,B PBBI,user2
+org1,Non Revenue,B PBBM,user3
+org1,Non Revenue,B PBBO,user2
+org1,Non Revenue,O B GG,user2
+org1,Non Revenue,O B WN,user3
+org1,Non Revenue,O B WQ,user1
+org1,Non Revenue,O B CG,user3
+org1,Non Revenue,HAJ A,user1
+org1,Non Revenue,C B A,user1
+org1,Non Revenue,O B GE,user3
+org1,Non Revenue,O B GB,user2
+org1,Non Revenue,O B GC,user2
+org1,Non Revenue,O B GA,user2
+org1,Non Revenue,O B GD,user2
+org1,Non Revenue,O B WD,user2
+org1,Non Revenue,B PAC,user1
+org1,Non Revenue,B PAJA,user1
+org1,Non Revenue,B PBFC,user1
+org1,Non Revenue,B PBEE,user1
+org1,Non Revenue,B V GD,user2
+org1,Non Revenue,B Z A,user3
+org1,Non Revenue,M AAFA,user2
+org1,Non Revenue,M AAFB,user3
+org1,Non Revenue,M AABA,user2
+org1,Non Revenue,M AABD,user1
+org1,Non Revenue,M AATC,user1
+org1,Non Revenue,ONMSDT,user3
+org1,Non Revenue,CAS AI,user1
+org1,Non Revenue,MBBAA,user3
+org1,Non Revenue,MBBBB,user1
+org1,Non Revenue,MBBEBB,user1
+org1,Non Revenue,MBAEB,user3
+org1,Non Revenue,A A KA,user2
+org1,Non Revenue,A X EA,user1
+org1,Non Revenue,R A A,user1
+org1,Non Revenue,F Y A,user1
+org1,Non Revenue,O B BF,user2
+org1,Non Revenue,M JCB,user1
+org1,Non Revenue,M J N,user1
+org1,Non Revenue,M J A,user3
+org1,Non Revenue,M J B,user3
+org1,Non Revenue,M J DG,user2
+org1,Non Revenue,M JAAA,user2
+org1,Non Revenue,M JABA,user3
+org1,Non Revenue,M J DB,user3
+org1,Non Revenue,M J BP,user3
+org1,Non Revenue,M K A,user3
+org1,Non Revenue,CJT D,user1
+org1,Non Revenue,FJM XA,user1
+org1,Non Revenue,MACCF,user1
+org1,Non Revenue,ANTSAC,user2
+org1,Non Revenue,M OAZR,user2
+org1,Non Revenue,B PARK,user3
+org1,Non Revenue,E A IC,user1
+org1,Non Revenue,B PBBV,user3
+org1,Non Revenue,C G H,user1
+org1,Non Revenue,FJM M,user2
+org1,Non Revenue,CJH L,user3
+org1,Non Revenue,MAP CQ,user2
+org1,Non Revenue,MAO CT,user3
+org1,Non Revenue,O B BA,user2
+org1,Non Revenue,O B BD,user3
+org1,Non Revenue,O B WJ,user2
+org1,Non Revenue,O B VH,user2
+org1,Non Revenue,M A KB,user1
+org1,Non Revenue,B PAAA,user3
+org1,Non Revenue,B PBAR,user2
+org1,Non Revenue,B PBBJ,user1
+org1,Non Revenue,B V UN,user2
+org1,Non Revenue,B V UO,user3
+org1,Non Revenue,B V UR,user1
+org1,Non Revenue,B PDBG,user3
+org1,Non Revenue,B PDBI,user1
+org1,Non Revenue,B PDBO,user3
+org1,Non Revenue,B PDBU,user1
+org1,Non Revenue,O B AD,user3
+org1,Non Revenue,O B AG,user2
+org1,Non Revenue,B V GC,user2
+org1,Non Revenue,M AATE,user1
+org1,Non Revenue,M AATB,user1
+org1,Non Revenue,M AABB,user1
+org1,Non Revenue,M ABA,user1
+org1,Non Revenue,ONGSDC,user1
+org1,Non Revenue,ONGSDS,user1
+org1,Non Revenue,C D RO,user1
+org1,Non Revenue,O B GK,user3
+org1,Non Revenue,ONMSDS,user3
+org1,Non Revenue,MBBFAB,user1
+org1,Non Revenue,A G AD,user1
+org1,Non Revenue,BJN A,user1
+org1,Non Revenue,BJN B,user3
+org1,Non Revenue,MRINO,user1
+org1,Non Revenue,R G AC,user1
+org1,Non Revenue,MBCAD,user1
+org1,Non Revenue,O N B,user2
+org1,Non Revenue,U J C,user3
+org1,Non Revenue,B LLPE,user1
+org1,Non Revenue,B LSPF,user1
+org1,Non Revenue,B LSCC,user2
+org1,Non Revenue,RNIIDI,user1
+org1,Non Revenue,B PEG,user1
+org1,Non Revenue,MAB C,user1
+org1,Non Revenue,A G AF,user1
+org1,Non Revenue,MACCEM,user2
+org1,Non Revenue,A H B,user2
+org1,Non Revenue,A H C,user1
+org1,Non Revenue,O B FI,user1
+org1,Non Revenue,B PBFD,user1
+org1,Non Revenue,B V UA,user1
+org1,Non Revenue,B RDA,user2
+org1,Non Revenue,C G C,user1
+org1,Non Revenue,MACCEG,user2
+org1,Non Revenue,MSF BA,user2
+org1,Non Revenue,MTL F,user1
+org1,Non Revenue,GTL E,user2
+org1,Non Revenue,MTL A,user2
+org1,Non Revenue,GTL B,user1
+org1,Non Revenue,MTL E,user1
+org1,Non Revenue,UJZSA,user1
+org1,Non Revenue,MAAAD,user1
+org1,Non Revenue,MAI B,user3
+org1,Non Revenue,MACBQ,user1
+org1,Non Revenue,MACCYB,user1
+org1,Revenue,A B K,user1
+org1,Revenue,M OAZP,user1
+org1,Revenue,M OAZS,user2
+org1,Revenue,B C C,user3
+org1,Revenue,O B G,user2
+org1,Revenue,O B GD,user2
+org1,Revenue,O B FB,user2
+org1,Revenue,O B FC,user1
+org1,Revenue,O B BC,user2
+org1,Revenue,O B WJ,user1
+org1,Revenue,O B WD,user3
+org1,Revenue,O B HA,user2
+org1,Revenue,O B HC,user3
+org1,Revenue,B PABA,user1
+org1,Revenue,B PARF,user1
+org1,Revenue,B PARG,user1
+org1,Revenue,B PARK,user1
+org1,Revenue,B PARH,user1
+org1,Revenue,B PARB,user3
+org1,Revenue,E A IB,user1
+org1,Revenue,E A IC,user1
+org1,Revenue,B PBFB,user1
+org1,Revenue,B PBFA,user1
+org1,Revenue,B PBCC,user1
+org1,Revenue,B PBEE,user3
+org1,Revenue,B PBBH,user1
+org1,Revenue,B PBBI,user1
+org1,Revenue,B PBBM,user1
+org1,Revenue,B PBBN,user3
+org1,Revenue,B PBBO,user3
+org1,Revenue,B PBBP,user2
+org1,Revenue,B PBBT,user2
+org1,Revenue,B V UB,user1
+org1,Revenue,B PDBO,user3
+org1,Revenue,B PDGG,user3
+org1,Revenue,B PDGC,user3
+org1,Revenue,O B AD,user3
+org1,Revenue,E A M,user2
+org1,Revenue,M AAFA,user2
+org1,Revenue,M AAFB,user1
+org1,Revenue,M AABA,user1
+org1,Revenue,M AATC,user1
+org1,Revenue,M AATA,user1
+org1,Revenue,M AATB,user1
+org1,Revenue,M AABC,user3
+org1,Revenue,M AAFH,user1
+org1,Revenue,M AAFE,user1
+org1,Revenue,M ABA,user2
+org1,Revenue,M ABB,user1
+org1,Revenue,M ABC,user3
+org1,Revenue,M ABE,user1
+org1,Revenue,M AAFM,user1
+org1,Revenue,MAB A,user1
+org1,Revenue,M AAFK,user1
+org1,Revenue,ONHEDT,user3
+org1,Revenue,ONHCDT,user3
+org1,Revenue,ONEQDT,user3
+org1,Revenue,ONREDT,user1
+org1,Revenue,ONCKDT,user1
+org1,Revenue,ONGSDS,user1
+org1,Revenue,ONGSDC,user2
+org1,Revenue,ONVADT,user2
+org1,Revenue,D F B,user1
+org1,Revenue,C D CA,user3
+org1,Revenue,C D C,user2
+org1,Revenue,C D RK,user1
+org1,Revenue,C D E,user1
+org1,Revenue,CAS AE,user1
+org1,Revenue,C G G,user2
+org1,Revenue,CAS AH,user1
+org1,Revenue,C D RL,user2
+org1,Revenue,C D RO,user3
+org1,Revenue,MBAAA,user1
+org1,Revenue,MBAAAA,user1
+org1,Revenue,MBAAB,user3
+org1,Revenue,MBBAA,user3
+org1,Revenue,MBABA,user1
+org1,Revenue,MBABC,user1
+org1,Revenue,MBBFBB,user3
+org1,Revenue,MBBEA,user1
+org1,Revenue,MBBEB,user1
+org1,Revenue,MBADA,user1
+org1,Revenue,MBADAA,user1
+org1,Revenue,MBADB,user1
+org1,Revenue,MBADBA,user3
+org1,Revenue,MBBCB,user2
+org1,Revenue,MBAEB,user1
+org1,Revenue,MBAEC,user3
+org1,Revenue,MBBGC,user1
+org1,Revenue,GSS E,user1
+org1,Revenue,MBBGA,user1
+org1,Revenue,MBBGB,user1
+org1,Revenue,A G AC,user1
+org1,Revenue,A G AG,user1
+org1,Revenue,A G AB,user3
+org1,Revenue,A G AH,user1
+org1,Revenue,A X BA,user2
+org1,Revenue,MACCFG,user2
+org1,Revenue,MACCFM,user2
+org1,Revenue,MACCGG,user3
+org1,Revenue,MACCGM,user2
+org1,Revenue,EJN A,user3
+org1,Revenue,CJN A,user2
+org1,Revenue,CJN B,user1
+org1,Revenue,BJN A,user1
+org1,Revenue,BJN B,user3
+org1,Revenue,M C F,user2
+org1,Revenue,M C YF,user3
+org1,Revenue,MACAC,user2
+org1,Revenue,MACAHP,user1
+org1,Revenue,MACAYA,user2
+org1,Revenue,A R CP,user1
+org1,Revenue,A R DT,user1
+org1,Revenue,MTL F,user1
+org1,Revenue,GTL D,user1
+org1,Revenue,GTL C,user1
+org1,Revenue,GTL AA,user3
+org1,Revenue,MTL A,user1
+org1,Revenue,GTL BA,user2
+org1,Revenue,MTL D,user1
+org1,Revenue,MTL E,user1
+org1,Revenue,MTL CA,user2
+org1,Revenue,MAI F,user2
+org1,Revenue,F Y H,user3
+org1,Revenue,F Y F,user1
+org1,Revenue,O B FH,user3
+org1,Revenue,R A A,user1
+org1,Revenue,M JBA,user3
+org1,Revenue,M JCF,user2
+org1,Revenue,M JBC,user1
+org1,Revenue,H P A,user1
+org1,Revenue,O B WN,user1
+org1,Revenue,O B AF,user1
+org1,Revenue,O R A,user1
+org1,Revenue,H S A,user1
+org1,Revenue,M J B,user3
+org1,Revenue,M JAS,user1
+org1,Revenue,MACEI,user2
+org1,Revenue,ONIIDT,user1
+org1,Revenue,R B M,user3
+org1,Revenue,R B L,user2
+org1,Revenue,H S AA,user1
+org1,Revenue,M K I,user1
+org1,Revenue,O B CH,user1
+org1,Revenue,F T E,user1
+org1,Revenue,F K B,user2
+org1,Revenue,MIA D,user2
+org1,Revenue,MBCAB,user1
+org1,Revenue,MBCAA,user3
+org1,Revenue,F SAA,user2
+org1,Revenue,F A MI,user1
+org1,Revenue,FAR S,user1
+org1,Revenue,O N A,user1
+org1,Revenue,O N B,user1
+org1,Revenue,MAP BZ,user2
+org1,Revenue,UJZCD,user1
+org1,Revenue,UJZSA,user1
+org1,Revenue,UJZKB,user1
+org1,Revenue,UJZHB,user1
+org1,Revenue,UJZAC,user1
+org1,Revenue,U I C,user1
+org1,Revenue,ANTSKC,user1
+org1,Revenue,ANTSKS,user1
+org1,Revenue,ANTQKC,user1
+org1,Revenue,MRINA,user1
+org1,Revenue,ONCKDE,user1
+org1,Revenue,AAF P,user1
+org1,Revenue,CAS AA,user1
+org1,Revenue,CAS AC,user1
+org1,Revenue,CAS AD,user1
+org1,Revenue,AAA S,user1
+org1,Revenue,AAB LC,user1
+org1,Revenue,AAA SC,user1
+org1,Revenue,CAS B,user1
+org1,Revenue,AAF S,user1
+org1,Revenue,U D B,user1
+org1,Revenue,U J C,user1
+org1,Revenue,MACBJ,user1
+org1,Revenue,MACBE,user1
+org1,Revenue,MACEC,user1
+org1,Revenue,MAB B,user1
+org1,Revenue,M A DH,user1
+org1,Revenue,MACAZ,user1
+org1,Revenue,MAO CZ,user1
+org1,Revenue,MAI A,user1
+org1,Revenue,MAI D,user1
+org1,Revenue,MACCZ,user1
+org1,Revenue,MACCI,user1
+org1,Revenue,MACFA,user1
+org1,Revenue,AJF K,user1
+org1,Revenue,MACCTA,user1
+org1,Revenue,MACCVB,user1
+org1,Revenue,BJG AC,user1
+org1,Revenue,MACCRM,user1
+org1,Revenue,FNIICA,user1
+org1,Revenue,ANTSBC,user1
+org1,Revenue,ANTSAC,user3
+org1,Revenue,B PAJA,user1
+org1,Revenue,B PBBV,user1
+org1,Revenue,C D L,user1
+org1,Revenue,MACAX,user1
+org1,Revenue,FAS B,user1
+org1,Revenue,FAS A,user1
+org1,Revenue,MACEA,user1
+org1,Revenue,MAO CI,user1
+org1,Revenue,MACAD,user1
+org1,Revenue,F TAA,user1
+org1,Revenue,MAP CB,user1
+org1,Revenue,FJM S,user1
+org1,Revenue,MAP CH,user1
+org1,Revenue,CJH A,user1
+org1,Revenue,MAO BL,user1
+org1,Revenue,E A AA,user1
+org1,Revenue,E B A,user1
+org1,Revenue,A B L,user1
+org1,Revenue,M OAZT,user1
+org1,Revenue,E A I,user1
+org1,Revenue,B PAA,user1
+org1,Revenue,B PEE,user1
+org1,Revenue,B PARJ,user1
+org1,Revenue,B PBCB,user3
+org1,Revenue,B PBCA,user2
+org1,Revenue,B PBEA,user2
+org1,Revenue,B PBEF,user2
+org1,Revenue,B V UO,user3
+org1,Revenue,B PDEF,user1
+org1,Revenue,B RDA,user2
+org1,Revenue,B RAB,user1
+org1,Revenue,B Z A,user3
+org1,Revenue,MAB C,user1
+org1,Revenue,M ABG,user1
+org1,Revenue,CAS AF,user1
+org1,Revenue,CAS AI,user3
+org1,Revenue,C D RN,user1
+org1,Revenue,C G H,user3
+org1,Revenue,C D I,user1
+org1,Revenue,MBABB,user1
+org1,Revenue,A G AA,user1
+org1,Revenue,A X CA,user1
+org1,Revenue,A X AA,user2
+org1,Revenue,A X EA,user2
+org1,Revenue,MSF BA,user1
+org1,Revenue,MACCYC,user1
+org1,Revenue,MACCYB,user1
+org1,Revenue,H P B,user3
+org1,Revenue,UJZKAA,user2
+org1,Revenue,AAB L,user3
+org1,Revenue,U H A,user1
+org1,Revenue,MAAFB,user2
+org1,Revenue,MACDB,user1
+org1,Revenue,MACBC,user1
+org1,Revenue,MACAF,user1
+org1,Revenue,MACGF,user2
+org1,Revenue,MACCH,user1
+org1,Revenue,EJK C,user2
+org1,Revenue,AJF KA,user1
+org1,Revenue,MACEG,user1
+org1,Revenue,MACCUA,user1
+org1,Revenue,MACCQ,user1
+org1,Revenue,MAP CZ,user1
+org1,Revenue,ANTNCB,user1
+org1,Revenue,ANTSBD,user2
+org1,Revenue,B PDBT,user1
+org1,Revenue,E A G,user3
+org1,Revenue,MACBEC,user1
+org1,Revenue,MACGC,user1
+org1,Revenue,A H B,user2
+org1,Revenue,O B GB,user2
+org1,Revenue,O B GA,user1
+org1,Revenue,O B FA,user1
+org1,Revenue,B PABB,user2
+org1,Revenue,B PDBU,user1
+org1,Revenue,D F A,user1
+org1,Revenue,C D B,user2
+org1,Revenue,ONMSDS,user1
+org1,Revenue,MBBBB,user1
+org1,Revenue,MBABD,user1
+org1,Revenue,MBBCA,user1
+org1,Revenue,A G AD,user2
+org1,Revenue,M JCE,user1
+org1,Revenue,MIA C,user1
+org1,Revenue,UJZMA,user1
+org1,Revenue,UJZMB,user1
+org1,Revenue,R G AC,user2
+org1,Revenue,FJM A,user1
+org1,Revenue,ANTOCB,user2
+org1,Revenue,F V B,user2
+org1,Revenue,B PAK,user2
+org1,Revenue,B PBBS,user1
+org1,Revenue,BJU A,user1
+org1,Revenue,M ABH,user1
+org1,Revenue,C D K,user1
+org1,Revenue,UJZSB,user1
+org1,Revenue,MACEH,user2
+org1,Revenue,MACEK,user2
+org1,Revenue,MACCK,user2
+org1,Revenue,A H C,user1
+org1,Revenue,O B FI,user1
+org1,Revenue,B PBAR,user1
+org1,Revenue,B PBFF,user1
+org1,Revenue,B V UA,user2
+org1,Revenue,B V UN,user3
+org1,Revenue,B PDEE,user2
+org1,Revenue,B PDBG,user2
+org1,Revenue,B PDBS,user1
+org1,Revenue,B V GD,user2
+org1,Revenue,ONMSDT,user1
+org1,Revenue,ONGSDT,user1
+org1,Revenue,C D N,user1
+org1,Revenue,GTL A,user1
+org1,Revenue,GTL B,user2
+org1,Revenue,H Z Z,user1
+org1,Revenue,R B C,user3
+org1,Revenue,F GAA,user2
+org1,Revenue,U I D,user1
+org1,Revenue,AAC XC,user1
+org1,Revenue,AAD YC,user1
+org1,Revenue,MAP CM,user1
+org1,Revenue,MAP CN,user1
+org1,Revenue,FAS C,user2
+org1,Revenue,FAM A,user1
+org1,Revenue,FJM O,user3
+org1,Revenue,MACAK,user2
+org1,Revenue,F PXA,user1
+org1,Revenue,MAP ZA,user1
+org1,Revenue,MACEE,user1
+org1,Revenue,MAP CX,user1
+org1,Revenue,MAP CI,user2
+org1,Revenue,MAP CT,user1
+org1,Revenue,HJM A,user2
+org1,Revenue,HJM H,user1
+org1,Revenue,MAP DG,user1
+org1,Revenue,BJG S,user3
+org1,Revenue,BJG T,user1
+org1,Revenue,MAO CG,user1
+org1,Revenue,MAO BK,user1
+org1,Revenue,MAO BZ,user1
+org1,Revenue,MAO CM,user2
+org1,Revenue,MAO BX,user1
+org1,Revenue,ANTQCB,user1
+org1,Revenue,ENVDRF,user1
+org1,Revenue,ENESRF,user2
+org1,Revenue,ANTNRF,user1
+org1,Revenue,ANTICB,user2
+org1,Revenue,ANTKCB,user1
+org1,Revenue,C B A,user1
+org1,Revenue,O B GH,user1
+org1,Revenue,O B GC,user1
+org1,Revenue,O B GF,user2
+org1,Revenue,O B GI,user1
+org1,Revenue,O B GJ,user1
+org1,Revenue,O B FD,user1
+org1,Revenue,O B FK,user1
+org1,Revenue,O B FJ,user2
+org1,Revenue,O B WG,user2
+org1,Revenue,O B VG,user2
+org1,Revenue,M A K,user3
+org1,Revenue,B PAC,user1
+org1,Revenue,B PBBA,user1
+org1,Revenue,B PBBG,user1
+org1,Revenue,M AABD,user1
+org1,Revenue,M AATD,user1
+org1,Revenue,ONHSDT,user1
+org1,Revenue,C A B,user3
+org1,Revenue,MBAABA,user2
+org1,Revenue,MBABBA,user1
+org1,Revenue,MBBBA,user1
+org1,Revenue,C G C,user2
+org1,Revenue,A G AJ,user3
+org1,Revenue,MACCEG,user1
+org1,Revenue,F CCG,user1
+org1,Revenue,F C F,user2
+org1,Revenue,F Y G,user3
+org1,Revenue,O B GG,user3
+org1,Revenue,O B FE,user1
+org1,Revenue,O B Q,user2
+org1,Revenue,O B P,user1
+org1,Revenue,M J N,user1
+org1,Revenue,M J A,user1
+org1,Revenue,M JABA,user1
+org1,Revenue,M JBB,user3
+org1,Revenue,RDA B,user3
+org1,Revenue,O B CG,user3
+org1,Revenue,MBCBAC,user1
+org1,Revenue,MBCBAA,user2
+org1,Revenue,MBCBAE,user2
+org1,Revenue,MBCBAB,user3
+org1,Revenue,MBCBAF,user1
+org1,Revenue,MBAFA,user1
+org1,Revenue,MBCBAI,user1
+org1,Revenue,MBCBAM,user1
+org1,Revenue,MBCBAK,user1
+org1,Revenue,MBCBB,user1
+org1,Revenue,F SAB,user1
+org1,Revenue,M J DC,user1
+org1,Revenue,UJZKC,user1
+org1,Revenue,UJZHC,user3
+org1,Revenue,V D A,user1
+org1,Revenue,DAJ A,user1
+org1,Revenue,BJG CA,user1
+org1,Revenue,BJG U,user1
+org1,Revenue,BJG B,user1
+org1,Revenue,B PBFC,user1
+org1,Revenue,B V TE,user1
+org1,Revenue,CAS AG,user2
+org1,Revenue,MBBEBB,user2
+org1,Revenue,A A KA,user1
+org1,Revenue,A G AE,user1
+org1,Revenue,A G AF,user1
+org1,Revenue,UJZHA,user3
+org1,Revenue,U I A,user1
+org1,Revenue,U SAAB,user1
+org1,Revenue,F A B,user2
+org1,Revenue,H V D,user3
+org1,Revenue,H V J,user1
+org1,Revenue,H S C,user1
+org1,Revenue,MAP ZC,user1
+org1,Revenue,MAP CD,user2
+org1,Revenue,MAP CC,user2
+org1,Revenue,FJM H,user1
+org1,Revenue,UJZ D,user1
+org1,Revenue,MAO CT,user1
+org1,Revenue,MAO BI,user2
+org1,Revenue,MAO BN,user2
+org1,Revenue,MAP DA,user2
+org1,Revenue,MAO BC,user1
+org1,Revenue,ZNDODI,user1
+org1,Revenue,M OAZR,user3
+org1,Revenue,B PBFD,user1
+org1,Revenue,B PDBM,user1
+org1,Revenue,C G F,user1
+org1,Revenue,E G A,user1
+org1,Revenue,F Y A,user1
+org1,Revenue,UJZBB,user1
+org1,Revenue,MAO AC,user1
+org1,Revenue,C A A,user1
+org1,Revenue,O B BA,user1
+org1,Revenue,O B WK,user1
+org1,Revenue,O B BD,user1
+org1,Revenue,M A KB,user1
+org1,Revenue,B PAAA,user3
+org1,Revenue,B PBBJ,user1
+org1,Revenue,B V UR,user1
+org1,Revenue,B PDBI,user1
+org1,Revenue,O H C,user2
+org1,Revenue,B Z F,user1
+org1,Revenue,M AATE,user3
+org1,Revenue,M AAFC,user3
+org1,Revenue,M AABB,user3
+org1,Revenue,M AAFI,user1
+org1,Revenue,C D RP,user1
+org1,Revenue,M A M,user1
+org1,Revenue,FJM G,user1
+org1,Revenue,HJM D,user1
+org1,Revenue,EJZ B,user2
+org1,Revenue,B LSPF,user1
+org1,Revenue,B LSCC,user1
+org1,Revenue,B PDBN,user3
+org1,Revenue,B PDBV,user1
+org1,Revenue,MBBFA,user1
+org1,Revenue,MBBFB,user2
+org1,Revenue,MACCEM,user2
+org1,Revenue,FAR R,user2
+org1,Revenue,MAO BD,user1
+org1,Revenue,ANTQCA,user3
+org1,Revenue,B PEF,user1
+org1,Revenue,MACCYA,user2
+org1,Revenue,EJZ C,user1
